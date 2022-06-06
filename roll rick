@@ -1,0 +1,7 @@
+<Page>
+    </label text="welcome to the internet" />
+    <ActionBar title="ActionBar"></ActionBar>
+    <ActionBar rotate="dice">
+        <Label text="lol no">
+            <Image src="https://rroll.to/8mJfiw" />
+            <Label text="did you just rick roll yourself?"
